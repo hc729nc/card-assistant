@@ -1,0 +1,19 @@
+# Private: never upload these
+.simplefin_access
+transactions.csv
+credits_used.json
+cards.json
+offers.json
+merchant_categories.json
+screenshots/
+.env
+
+__pycache__/
+suggestions.json
+
+# Backups of your card list (private)
+cards.backup*.json
+*.backup*.json
+# Eval run outputs
+evals/results/
+.pytest_cache/

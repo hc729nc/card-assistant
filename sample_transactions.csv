@@ -1,0 +1,105 @@
+Date,Account Name,Name,Category,Amount
+2026-07-01,Sample Travel Card - Alex,Local Bistro,Dining & Drinks,67.24
+2026-07-03,Sample Dining Card - Alex,Netflix,Entertainment & Rec.,15.30
+2026-07-04,Sample Dining Card - Alex,Shell,Auto & Transport,43.17
+2026-07-04,Sample Travel Card - Alex,Shell,Auto & Transport,73.16
+2026-07-06,Sample Grocery Card - Sam,Local Bistro,Dining & Drinks,74.43
+2026-07-06,Sample Travel Card - Alex,Whole Foods,Groceries,140.10
+2026-07-08,Sample Travel Card - Alex,Netflix,Entertainment & Rec.,19.65
+2026-07-09,Sample Travel Card - Alex,United Airlines,Travel & Vacation,458.82
+2026-07-10,Sample Cash Back Card - Sam,Chevron,Auto & Transport,61.30
+2026-07-11,Sample Dining Card - Alex,Marriott,Travel & Vacation,394.48
+2026-07-11,Sample Travel Card - Alex,Amazon,Shopping,88.93
+2026-07-12,Sample Grocery Card - Sam,Uber,Travel & Vacation,28.65
+2026-07-12,Sample Grocery Card - Sam,Whole Foods,Groceries,104.85
+2026-07-13,Sample Grocery Card - Sam,Local Bistro,Dining & Drinks,63.92
+2026-07-15,Sample Cash Back Card - Sam,Uber,Travel & Vacation,39.99
+2026-07-16,Sample Cash Back Card - Sam,Whole Foods,Groceries,132.67
+2026-07-16,Sample Travel Card - Alex,Amazon,Shopping,107.74
+2026-07-17,Sample Cash Back Card - Sam,Target,Shopping,94.50
+2026-07-18,Sample Cash Back Card - Sam,Trader Joe's,Groceries,51.76
+2026-07-20,Sample Cash Back Card - Sam,Whole Foods,Groceries,101.64
+2026-07-20,Sample Grocery Card - Sam,Local Bistro,Dining & Drinks,151.68
+2026-07-21,Sample Grocery Card - Sam,United Airlines,Travel & Vacation,569.67
+2026-07-21,Sample Grocery Card - Sam,Whole Foods,Groceries,126.15
+2026-07-22,Sample Cash Back Card - Sam,Target,Shopping,91.45
+2026-07-23,Sample Dining Card - Alex,Starbucks,Dining & Drinks,6.10
+2026-07-23,Sample Travel Card - Alex,Sweetgreen,Dining & Drinks,16.47
+2026-07-24,Sample Travel Card - Alex,Marriott,Travel & Vacation,219.33
+2026-07-25,Sample Dining Card - Alex,Spotify,Entertainment & Rec.,11.69
+2026-07-27,Sample Grocery Card - Sam,LADWP,Bills & Utilities,97.93
+2026-07-27,Sample Grocery Card - Sam,Trader Joe's,Groceries,44.36
+2026-07-29,Sample Travel Card - Alex,Shell,Auto & Transport,51.90
+2026-08-02,Sample Cash Back Card - Sam,Netflix,Entertainment & Rec.,19.91
+2026-08-04,Sample Dining Card - Alex,Spotify,Entertainment & Rec.,11.63
+2026-08-05,Sample Grocery Card - Sam,Spotify,Entertainment & Rec.,11.12
+2026-08-06,Sample Cash Back Card - Sam,Sweetgreen,Dining & Drinks,24.36
+2026-08-06,Sample Grocery Card - Sam,Chevron,Auto & Transport,55.91
+2026-08-07,Sample Dining Card - Alex,Spotify,Entertainment & Rec.,11.69
+2026-08-07,Sample Travel Card - Alex,Verizon,Bills & Utilities,85.00
+2026-08-09,Sample Cash Back Card - Sam,Amazon,Shopping,82.21
+2026-08-10,Sample Cash Back Card - Sam,United Airlines,Travel & Vacation,485.48
+2026-08-11,Sample Grocery Card - Sam,Verizon,Bills & Utilities,85.00
+2026-08-12,Sample Grocery Card - Sam,Starbucks,Dining & Drinks,8.84
+2026-08-15,Sample Dining Card - Alex,Chevron,Auto & Transport,69.24
+2026-08-16,Sample Cash Back Card - Sam,Chevron,Auto & Transport,47.82
+2026-08-18,Sample Cash Back Card - Sam,Shell,Auto & Transport,47.15
+2026-08-20,Sample Dining Card - Alex,Trader Joe's,Groceries,73.46
+2026-08-20,Sample Travel Card - Alex,Target,Shopping,105.12
+2026-08-21,Sample Travel Card - Alex,Chevron,Auto & Transport,73.03
+2026-08-22,Sample Travel Card - Alex,Chevron,Auto & Transport,70.37
+2026-08-22,Sample Travel Card - Alex,Sweetgreen,Dining & Drinks,16.12
+2026-08-23,Sample Dining Card - Alex,United Airlines,Travel & Vacation,257.92
+2026-08-23,Sample Grocery Card - Sam,Verizon,Bills & Utilities,85.00
+2026-08-25,Sample Dining Card - Alex,Shell,Auto & Transport,40.98
+2026-08-26,Sample Dining Card - Alex,Uber,Travel & Vacation,46.26
+2026-08-27,Sample Grocery Card - Sam,Uber,Travel & Vacation,48.87
+2026-08-29,Sample Dining Card - Alex,Chevron,Auto & Transport,63.61
+2026-08-31,Sample Dining Card - Alex,Sweetgreen,Dining & Drinks,20.63
+2026-08-31,Sample Travel Card - Alex,Verizon,Bills & Utilities,85.00
+2026-09-03,Sample Travel Card - Alex,Target,Shopping,109.49
+2026-09-05,Sample Travel Card - Alex,Local Bistro,Dining & Drinks,137.23
+2026-09-06,Sample Cash Back Card - Sam,Netflix,Entertainment & Rec.,18.62
+2026-09-06,Sample Travel Card - Alex,Netflix,Entertainment & Rec.,18.55
+2026-09-07,Sample Cash Back Card - Sam,Netflix,Entertainment & Rec.,22.38
+2026-09-07,Sample Dining Card - Alex,Local Bistro,Dining & Drinks,101.66
+2026-09-08,Sample Dining Card - Alex,Shell,Auto & Transport,63.43
+2026-09-08,Sample Travel Card - Alex,Chevron,Auto & Transport,68.49
+2026-09-10,Sample Dining Card - Alex,Target,Shopping,52.78
+2026-09-11,Sample Travel Card - Alex,Shell,Auto & Transport,53.94
+2026-09-12,Sample Cash Back Card - Sam,Chevron,Auto & Transport,59.74
+2026-09-12,Sample Dining Card - Alex,Starbucks,Dining & Drinks,7.29
+2026-09-13,Sample Cash Back Card - Sam,United Airlines,Travel & Vacation,257.21
+2026-09-14,Sample Grocery Card - Sam,Shell,Auto & Transport,51.60
+2026-09-14,Sample Travel Card - Alex,Spotify,Entertainment & Rec.,11.11
+2026-09-15,Sample Cash Back Card - Sam,Whole Foods,Groceries,114.47
+2026-09-16,Sample Grocery Card - Sam,United Airlines,Travel & Vacation,564.35
+2026-09-17,Sample Grocery Card - Sam,Shell,Auto & Transport,64.51
+2026-09-19,Sample Dining Card - Alex,Costco,Groceries,205.06
+2026-09-21,Sample Travel Card - Alex,Costco,Groceries,280.33
+2026-09-23,Sample Travel Card - Alex,Trader Joe's,Groceries,71.76
+2026-09-24,Sample Cash Back Card - Sam,Spotify,Entertainment & Rec.,11.62
+2026-09-25,Sample Travel Card - Alex,Payment Thank You,Credit Card Payment,-1850.00
+2026-09-26,Sample Cash Back Card - Sam,Whole Foods,Groceries,94.53
+2026-09-27,Sample Cash Back Card - Sam,Uber,Travel & Vacation,37.65
+2026-09-28,Sample Dining Card - Alex,Marriott,Travel & Vacation,253.04
+2026-09-30,Sample Travel Card - Alex,Whole Foods,Groceries,155.98
+2026-10-01,Sample Dining Card - Alex,Spotify,Entertainment & Rec.,11.93
+2026-10-03,Sample Dining Card - Alex,Uber,Travel & Vacation,54.35
+2026-10-03,Sample Grocery Card - Sam,Target,Shopping,117.33
+2026-10-04,Sample Dining Card - Alex,Starbucks,Dining & Drinks,9.24
+2026-10-05,Sample Cash Back Card - Sam,Payment Thank You,Credit Card Payment,-920.00
+2026-10-05,Sample Travel Card - Alex,Whole Foods,Groceries,96.37
+2026-10-06,Sample Travel Card - Alex,Shell,Auto & Transport,42.96
+2026-10-07,Sample Dining Card - Alex,LADWP,Bills & Utilities,118.49
+2026-10-07,Sample Dining Card - Alex,Trader Joe's,Groceries,51.03
+2026-10-08,Sample Cash Back Card - Sam,Trader Joe's,Groceries,107.33
+2026-10-08,Sample Dining Card - Alex,Spotify,Entertainment & Rec.,11.03
+2026-10-09,Sample Dining Card - Alex,Local Bistro,Dining & Drinks,60.11
+2026-10-10,Sample Cash Back Card - Sam,Trader Joe's,Groceries,75.19
+2026-10-10,Sample Travel Card - Alex,Sweetgreen,Dining & Drinks,15.27
+2026-10-12,Sample Grocery Card - Sam,Shell,Auto & Transport,40.79
+2026-10-13,Sample Travel Card - Alex,Amazon,Shopping,90.27
+2026-10-14,Sample Cash Back Card - Sam,Target,Shopping,94.86
+2026-10-15,Sample Dining Card - Alex,LADWP,Bills & Utilities,133.69
+2026-10-15,Sample Dining Card - Alex,Local Bistro,Dining & Drinks,64.38

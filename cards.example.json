@@ -1,0 +1,152 @@
+[
+  {
+    "id": "travel",
+    "name": "Sample Travel Card",
+    "owner": "Alex",
+    "account_match": "Sample Travel Card",
+    "annual_fee": 550,
+    "renewal_date": "2026-11-15",
+    "point_value": 1.5,
+    "earn": {
+      "flights": 5,
+      "hotels": 3,
+      "travel": 3,
+      "dining": 3,
+      "other": 1
+    },
+    "credits": [
+      {
+        "id": "travel_credit",
+        "name": "Travel credit",
+        "amount": 300,
+        "period": "annual"
+      },
+      {
+        "id": "rideshare_credit",
+        "name": "Rideshare credit",
+        "amount": 10,
+        "period": "monthly"
+      },
+      {
+        "id": "global_entry",
+        "name": "Global Entry / TSA PreCheck fee",
+        "amount": 120,
+        "period": "every_4_years"
+      },
+      {
+        "id": "lounge_guest",
+        "name": "Free lounge guest passes",
+        "period": "annual"
+      }
+    ],
+    "key_benefits": [
+      "Airport lounge access",
+      "No foreign transaction fees",
+      "Trip delay insurance"
+    ],
+    "source": "SAMPLE DATA - made up",
+    "foreign_fee_pct": 0,
+    "cash_advance_pct": 5,
+    "cash_advance_min": 10,
+    "referral_bonus": "Up to 30,000 points",
+    "referral_link": null
+  },
+  {
+    "id": "dining",
+    "name": "Sample Dining Card",
+    "owner": "Alex",
+    "account_match": "Sample Dining Card",
+    "annual_fee": 250,
+    "renewal_date": "2027-03-01",
+    "point_value": 1.5,
+    "earn": {
+      "dining": 4,
+      "groceries": 4,
+      "other": 1
+    },
+    "credits": [
+      {
+        "id": "dining_credit",
+        "name": "Dining credit",
+        "amount": 10,
+        "period": "monthly"
+      },
+      {
+        "id": "hotel_credit",
+        "name": "Hotel credit",
+        "amount": 50,
+        "period": "semiannual"
+      }
+    ],
+    "key_benefits": [
+      "Best card for restaurants and groceries"
+    ],
+    "source": "SAMPLE DATA - made up",
+    "foreign_fee_pct": 0,
+    "cash_advance_pct": 5,
+    "cash_advance_min": 10,
+    "referral_bonus": null,
+    "referral_link": null
+  },
+  {
+    "id": "cashback",
+    "name": "Sample Cash Back Card",
+    "owner": "Sam",
+    "account_match": "Sample Cash Back Card",
+    "annual_fee": 0,
+    "renewal_date": null,
+    "point_value": 1.0,
+    "earn": {
+      "other": 2
+    },
+    "credits": [],
+    "key_benefits": [
+      "2% back on everything",
+      "No annual fee"
+    ],
+    "source": "SAMPLE DATA - made up",
+    "foreign_fee_pct": 3,
+    "cash_advance_pct": 5,
+    "cash_advance_min": 10,
+    "referral_bonus": null,
+    "referral_link": null
+  },
+  {
+    "id": "grocery",
+    "name": "Sample Grocery Card",
+    "owner": "Sam",
+    "account_match": "Sample Grocery Card",
+    "annual_fee": 95,
+    "renewal_date": null,
+    "point_value": 1.0,
+    "earn": {
+      "groceries": 6,
+      "streaming": 6,
+      "gas": 3,
+      "other": 1
+    },
+    "credits": [
+      {
+        "id": "streaming_credit",
+        "name": "Streaming credit",
+        "amount": 7,
+        "period": "monthly"
+      },
+      {
+        "id": "free_night",
+        "name": "Free hotel night certificate",
+        "period": "annual"
+      }
+    ],
+    "key_benefits": [
+      "6% on groceries (up to $6,000/year)",
+      "Cell phone protection"
+    ],
+    "source": "SAMPLE DATA - made up",
+    "foreign_fee_pct": 2.7,
+    "cash_advance_pct": null,
+    "cash_advance_min": null,
+    "referral_bonus": null,
+    "referral_link": null
+  }
+]
